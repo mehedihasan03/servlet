@@ -1,0 +1,4 @@
+com\example\GetFormData.class
+com\example\GsonToJavaObjectServlet.class
+com\example\GetQueryDataServlet.class
+com\example\User.class
